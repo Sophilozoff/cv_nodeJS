@@ -1,0 +1,29 @@
+body{
+    background-url("img/background.jpg");
+    background-size: cover;
+}
+header{
+    background-color: #F09E3D;
+    padding : 50px 0;
+}
+#navbar{
+    background-color: #071D2B;
+    height : 70px;
+    margin-top : -35px;
+}
+a{
+    color: #E9E3D5;
+}
+h2{
+    padding-top : 120px;
+    padding-bottom : 80px;
+}
+#aboutMe{
+    font-size: 1.4em;
+    font-family: "Tw Cen MT, sans-serif" ;
+}
+#languages, #tools{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
